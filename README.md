@@ -1,5 +1,11 @@
-X11 Simpe Window
+# X11 Simpe Window
 
-[] fix loop
-[] create a simple collision function
-[] create a bouncing box
+
+### TODO
+-[] fix loop
+-[] create timer
+-[] create a simple collision function
+
+-[] create a bouncing box
+
+
